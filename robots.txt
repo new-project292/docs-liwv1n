@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-epnyvl.bento4dsti.lat/sitemap.xml
